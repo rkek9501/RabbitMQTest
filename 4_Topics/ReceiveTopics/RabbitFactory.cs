@@ -2,7 +2,7 @@ using System;
 using RabbitMQ.Client;
 using CommandLine;
 
-namespace Singleton
+namespace RabbitFactory
 {
     public class RabbitMqFactory
     {
